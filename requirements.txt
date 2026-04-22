@@ -1,0 +1,14 @@
+mlflow
+numpy
+notebook
+pandas
+python-box
+scikit-learn
+scipy
+seaborn
+matploltlib
+pyYAML
+types-pyYAML
+ensure
+tqdm
+joblib
