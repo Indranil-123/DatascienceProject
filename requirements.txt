@@ -6,7 +6,7 @@ python-box
 scikit-learn
 scipy
 seaborn
-matploltlib
+matplotlib
 pyYAML
 types-pyYAML
 ensure
